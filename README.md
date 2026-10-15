@@ -28,9 +28,10 @@ Usuarios del sistema: **jugador**, **gestor de sede** y **administrador**.
 
 | Integrante | Usuario de GitHub | Rol en el equipo |
 |------------|-------------------|------------------|
-| (nombre completo) | @usuario | (por definir) |
-| (nombre completo) | @usuario | (por definir) |
-| (nombre completo) | @usuario | (por definir) |
+| (Daniel Alexander  Orozco Martinez) | Daniel-1414 | (Scrum Master) |
+| (Jhan Lucas Cueva Llanos) | jhanluk10 | (Product owner) |
+| (Breyner José Moreno Arévalo) | morenoalberga-spec | (Desarrollador) |
+| (Iared Said Peña Castro) | iaredsaid1806 | (Desarrollador) |
 
 ## Cómo trabajamos
 
